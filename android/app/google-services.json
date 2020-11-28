@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "948193070094",
+    "firebase_url": "https://sauvemoi-51000.firebaseio.com",
+    "project_id": "sauvemoi-51000",
+    "storage_bucket": "sauvemoi-51000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948193070094:android:52295ca4bba9c46e3bc05f",
+        "android_client_info": {
+          "package_name": "com.melvina.sauve_moi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948193070094-1up29aads8cdc8ovk7imf3ek6mfsijh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.melvina.sauve_moi",
+            "certificate_hash": "08cd62e3b4972204f2076834b1ead2915c9ff799"
+          }
+        },
+        {
+          "client_id": "948193070094-nvlaq3majo2fillcjhtqrbq3vdtu57ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjiZ_S9sssdwbRKCF0Sjnn9RkkKrLtNSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948193070094-nvlaq3majo2fillcjhtqrbq3vdtu57ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
